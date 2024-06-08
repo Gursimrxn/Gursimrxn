@@ -13,7 +13,7 @@ Hi there! I'm **Gursimran Singh**, a passionate web developer and computer scien
   - CSS (working on a Netflix clone)
   - JavaScript (callbacks, promises, async/await theory)
 - **Data Structures & Algorithms:**
-  - Solving problems on LeetCode (423+ questions)
+  - Solving problems on LeetCode (425+ questions)
 - **Version Control:**
   - Git
   - GitHub
@@ -34,7 +34,7 @@ Hi there! I'm **Gursimran Singh**, a passionate web developer and computer scien
 
 ### 🧩 Algorithm Solutions
 - **Platform:** LeetCode
-- **Description:** Solved over 423 problems, focusing on data structures and algorithms to strengthen problem-solving skills.
+- **Description:** Solved over 425 problems, focusing on data structures and algorithms to strengthen problem-solving skills.
 
 ## 🎯 Goals
 - **Short-Term:** Complete my current studies in C# and gain practical experience by building more projects.
@@ -43,6 +43,7 @@ Hi there! I'm **Gursimran Singh**, a passionate web developer and computer scien
 ## 📫 Contact
 - **LinkedIn:** [Gursimran Singh](https://www.linkedin.com/in/gursimrxnsingh)
 - **GitHub:** [Gursimrxn](https://github.com/gursimrxn)
+- **LeetCode:** [Gursimrxn](https://leetcode.com/gursimrxn)
 - **Email:** sgursimranmatharu@gmail.com
 
 ## 🙏 Acknowledgements
