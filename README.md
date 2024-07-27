@@ -1,30 +1,21 @@
 # Hello, I'm Gursimran Singh! 👋
 
-## 🌟 About Me
+Hello there! I am Gursimran Singh, and I am pursuing my BCA from Chitkara University Rajpura. I enjoy creating innovative and efficient solutions to complex problems. It is such a high to come up with new and smart ways of solution for tricky problems. I have a good grasp over different coding languages and frameworks. I have been studying C#, ASP.NET Core, and the MERN stack. Since I am always looking to add new tools to my belt, recently, you can frequently find me by participating in hackathons or sharing my works on GitHub.
 
-Hi there! I'm **Gursimran Singh**, a passionate web developer and computer science enthusiast currently pursuing a BCA at **Chitkara University, Punjab**. With a strong foundation in several programming languages and web development technologies, I am eager to continue expanding my skill set and achieving my goal of securing a position in a top tech company like Microsoft or Google.
+## 🌐 Socials
 
-## Skills
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mysticaltrack.wav)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gursimrxnsingh)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gursimrxnsingh) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gursimrxn)
 
-- **Programming Languages**: C, C++, Python, C#
-- **Web Development**: HTML, CSS, JavaScript (async/await)
-- **Other Technologies**: Git, GitHub, Vercel
-- **Current Focus**: OOP, Design Principles and SOLID principles in C#, ASP.NET Core, React, DevOps, and cloud services
+## 💻 Tech Stack
 
-## LeetCode Progress
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🧩 Solved over 470 questions  
-🔥 300-day streak
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gursimrxn&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gursimrxn&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gursimrxn&theme=dark&hide_border=true&layout=compact)
 
-## 📫 Get in Touch
-- **LinkedIn:** [Gursimran Singh](https://www.linkedin.com/in/gursimrxnsingh)
-- **GitHub:** [Gursimrxn](https://github.com/gursimrxn)
-- **LeetCode:** [Gursimrxn](https://leetcode.com/gursimrxn)
-- **Website:** https://www.gursimran-singh.vercel.app
-- **Email:** sgursimranmatharu@gmail.com
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Let's connect and build something amazing together!
-
----
-> "The best way to predict the future is to invent it." – Alan Kay
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Gursimrxn&icon=2&color=9)](https://visitcount.itsvg.in)
