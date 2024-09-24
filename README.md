@@ -1,21 +1,42 @@
-# Hello, I'm Gursimran Singh! 👋
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Gursimran Singh</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-Hello there! I am Gursimran Singh, and I am pursuing my BCA from Chitkara University Rajpura. I enjoy creating innovative and efficient solutions to complex problems. It is such a high to come up with new and smart ways of solution for tricky problems. I have a good grasp over different coding languages and frameworks. I have been studying C#, ASP.NET Core, and the MERN stack. Since I am always looking to add new tools to my belt, recently, you can frequently find me by participating in hackathons or sharing my works on GitHub.
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Gursimrxn&icon=2&color=9" alt="gursimrxn" /> </p>
+    <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250" />
+    <h3>🔭 I’m currently working on <a href="https://logpeers.vercel.com">LogPeers</a></h3>
+    <h3>🌱 I’m currently learning <strong>DotNet Core</strong></h3>
+    <h3>📫 How to reach me: <strong>sgursimranmatharu@gmail.com</strong></h3>
 
-## 🌐 Socials
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gursimrxnsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gursimrxnsingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gursimrxnsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursimrxnsingh" height="30" width="40" /></a>
+<a href="https://kaggle.com/gursimrxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gursimrxn" height="30" width="40" /></a>
+<a href="https://instagram.com/mysticaltrack.wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mysticaltrack.wav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mysticaltrack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mysticaltrack" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gursimrxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gursimrxn" height="30" width="40" /></a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mysticaltrack.wav)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gursimrxnsingh)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gursimrxnsingh) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gursimrxn)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gursimrxn&theme=dark&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gursimrxn&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gursimrxn&theme=dark&hide_border=true&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Gursimrxn&icon=2&color=9)](https://visitcount.itsvg.in)
+<div align="center" style="margin-top: 30px;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gursimrxn&show_icons=true&locale=en&layout=compact" alt="gursimrxn" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=gursimrxn&show_icons=true&theme=merko&hide_border=true&locale=en" alt="gursimrxn" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=gursimrxn&theme=dark" alt="gursimrxn" />
+</div>
