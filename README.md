@@ -2,7 +2,7 @@
 <h3 align="center">A Student Web developer from India</h3>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Gursimrxn&icon=2&color=9" alt="gursimrxn" /> </p>
-    <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhyaTQ1YXN0a3hiMHUzNTcwM2hqMDdkaXI5Njk5cXV6c2R6NmU1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Coding GIF" height="250" />
+    <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhyaTQ1YXN0a3hiMHUzNTcwM2hqMDdkaXI5Njk5cXV6c2R6NmU1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Coding GIF" height="200" />
     
 - 🔭 I’m currently working on [LogPeers](https://logpeers.vercel.app)
 
